@@ -4,7 +4,7 @@
 * Raspberry Pi 3 B+ 
 * Heat sinks x2 (Some pi kits include these) 
 * 32 GB Micro SD card (anything larger than 32GB can be used but will have to be formatted)
-* Mirco SD card reader/adapter (used to download NOOBS 
+* Mirco SD card reader/adapter (used to download NOOBS) 
 * 2.5A USB Power Supply with Micro USB Cable
 * Raspberry Pi case (optional but recommended) 
 * Mouse

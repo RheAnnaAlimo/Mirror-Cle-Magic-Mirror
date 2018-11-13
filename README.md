@@ -4,8 +4,10 @@ It took a few days to complete but building something functional from nothing wa
 
 This is how I did it.  
 
-Step 1: Gather Materials
-Step 2: Build Mirror
-Step 3: Configure Raspberry Pi
+* Step 1: Gather Materials
+* Step 2: Build Mirror
+* Step 3: Configure Raspberry Pi
+
+![Mirror](C:\Users\RheAnna\Pictures.jpg)
 
  

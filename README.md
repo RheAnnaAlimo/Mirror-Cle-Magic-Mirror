@@ -8,6 +8,8 @@ This is how I did it.
 * Step 2: Build Mirror
 * Step 3: Configure Raspberry Pi
 
-![Mirror](C:\Users\RheAnna\Pictures.jpg)
+//TODO: add image
+//TODO: add flo-chart module
+//TODO: add commute times
 
  
